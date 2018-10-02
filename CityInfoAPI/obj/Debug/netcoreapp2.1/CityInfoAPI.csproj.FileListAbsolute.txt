@@ -1,0 +1,14 @@
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.deps.json
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.json
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.dev.json
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.dll
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.pdb
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csprojAssemblyReference.cache
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csproj.CoreCompileInputs.cache
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cache
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cs
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfoInputs.cache
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfo.cs
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorTargetAssemblyInfo.cache
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.dll
+G:\bheer\NetCoreTutorials\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.pdb
